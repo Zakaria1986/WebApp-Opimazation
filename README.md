@@ -26,7 +26,8 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-### Acceptance Criteria
+# -----------------------------------------------------------------------------------------------
+# Acceptance Criteria
 
 Your website must meet accessibility standards. You can achieve this completing the following:
 
@@ -35,6 +36,8 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
+
+# ------------------------------------------------------------------------------------------------
 
 ### Resources:
 
