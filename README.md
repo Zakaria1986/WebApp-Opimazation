@@ -42,7 +42,7 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 
 1. Create a new repository on your GitHub account and clone it to your computer.
 
-2. When you're ready to deploy, use the `git add`,    `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+2. When you're ready to deploy, use the `git add`,     `git commit`, and `git push` commands to save and push your code to your GitHub repository.
 
 3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
 
