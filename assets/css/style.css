@@ -1,3 +1,11 @@
+/* 
+* Application's CSS file contains some comments, but should have more
+* Repo doesn't have a unique name
+* Code doesn't follow good practices for class/id names, indentation, lacks quality comments
+* Repo doesn't contain multiple descriptive commit messages
+* Repository README is missing 2 of the following: description, screenshot, or link to deployed application.
+*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,7 +16,14 @@ body {
     background-color: #d9dcd6;
 }
 
-/*Style for header container */
+/*
+    * Style for header container 
+    * This section sets styles to header of the page giving a padding of 20px all four sides
+    * Font-family of the css property take several fonts families starting with the first one in the string 
+      if the first font is not found then it falls back on the second and so forth. 
+    * Color property of the css targets the font with the specified container or element in this case it is targeting the header element. 
+
+*/
 header.header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,18 +31,37 @@ header.header {
     color: #ffffff;
 }
 
-/*Style for h1 header text*/
+/*
+Style for h1 header text::after
+ * Here h1 with in the header container is being specifically targed and has been given two property 
+ * dispaly which set to inline-block, which is block of its own but sit side by side to its sibling container. 
+ * second property is set to font-size, which targets the size of the font within the h1. 
+*/
 header.header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/*Style for h1 title part text */
+/* 
+Style for h1 title part:
+here a span wrapped around the work SEO in the h1 is being target with the class name eso set to color white.  
+
+
+
+*/
 header.header h1 .seo {
     color: #d9dcd6;
 }
 
-/*Style for nav section header section */
+/*
+Style for nav section header section:
+* We have seen some property explained previousely, in this section 3 css properties have been implement to target the nav element to achieve 
+  an specific requirement. 
+   - padding-top, padding top specifically effect the space above text, 
+   - margin-right targets right of the containers and a space of 20px outside. 
+   - float:right;  that takes the whole nav box and shits it to the right of the page. 
+
+*/
 header.header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,17 +70,31 @@ header.header nav {
     font-size: 20px;
 }
 
-/*Style for ul, removing the bullet point */
+/*
+Style for ul, removing the bullet point 
+* On the page ul and within ul li tags are used to layout the nav links. <li> usually comes with bullet points for each of the list item. 
+  Setting the list-style-tyope to none remove the bulletpoints of each list item.  However alternative to setting the list-style-type to none,  however there are many more style which can be applied to <li>.
+* To set the design of the li you usally target the parent wraping container. 
+
+*/
 header.header nav ul {
     list-style-type: none;
 }
 
-/*Style for li, setting li to side by side by giving it inline-blocl display property */
+/*
+Style for li, setting li to side by side by giving it inline-blocl display property 
+* After removing the bulletpoint, navs links are most cases vertically aligned. so by giving display: and inline-block property gettting all the li sitting side by side. 
+* And setting margin-left: 25px to create some space between the linked items 
+*/
 header.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* 
+    * a tags usually comes with underline so remove the underline, here a tag is being targeted 
+        and setting the text-decoration to none. little different to removing li bulletpoints. 
+*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -56,6 +104,11 @@ p {
     font-size: 16px;
 }
 
+/* 
+
+* Section is target hero section of the page which hero section, width 100%. and height set to 800px. 100% take the whole with of any containers it sits into where as pix take the pixuals of space with the browser
+* The image in the hero section is pullin via image url in the css which is set to fit the container without image stretching itself position it self in the center. 
+*/
 section.hero {
     height: 800px;
     width: 100%;
@@ -65,6 +118,8 @@ section.hero {
     background-position: center;
 }
 
+
+/* fload-left and float-right class are set to float right and left for the thumb nails with the main section cards */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,14 +130,18 @@ section.hero {
     margin-left: 25px;
 }
 
-/* replace .content with section semantic tag */
+/* 
+Replace .content with section semantic tag in index.html file however used display inline-block to make the cotainers sit side by side. 
+
+
+*/
 main.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/*Aside styling */
+/*Setting styleing to Aside containers*/
 aside.benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,7 +161,11 @@ aside.benefits {
     color: #ffffff;
 }
 
-/* Code refactored bellow */
+/* 
+Code refactored bellow:
+* Styling items in the aside container by giving a space at the bottom and aligning it at the center. 
+
+*/
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
