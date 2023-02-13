@@ -5,7 +5,7 @@
 
 This project is to clean up the existing marketing application and optimise it to meet HTML5 sementics and refactor some of the html and css code which follows the best practice of html and css guideline. 
    
-   [](https://zakaria1986.github.io/WebApp-Opimazation/)
+   [Live site](https://zakaria1986.github.io/WebApp-Opimazation/)
 
 ## Table of Contents
 
