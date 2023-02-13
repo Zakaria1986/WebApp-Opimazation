@@ -5,7 +5,7 @@
 
 This project is to clean up the existing marketing application and optimise it to meet HTML5 sementics and refactor some of the html and css code which follows the best practice of html and css guideline. 
    
-   ![](https://zakaria1986.github.io/WebApp-Opimazation/)
+   [](https://zakaria1986.github.io/WebApp-Opimazation/)
 
 ## Table of Contents
 
@@ -32,9 +32,9 @@ This project is to clean up the existing marketing application and optimise it t
 
 This app doesn't require any instaition however you would need one of the latest update web browser.  
 
-   ##  Usage<a name="usage-3"></a>
+##  Usage<a name="usage-3"></a>
 
-      You can browse through the website as you like and use any part of the code for your needs. 
+You can browse through the website as you like and use any part of the code for your needs. 
 
    ##  License <a name="license-4"></a>
 
