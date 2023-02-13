@@ -26,7 +26,8 @@ This project is to clean up the existing marketing application and optimise it t
    
 8. [GitHub Link](#GitProfileName)
    
-   ## Instalation <a name="instalation-2"></a>
+
+## Instalation <a name="instalation-2"></a>
 
       
 
@@ -36,31 +37,31 @@ This app doesn't require any instaition however you would need one of the latest
 
 You can browse through the website as you like and use any part of the code for your needs. 
 
-   ##  License <a name="license-4"></a>
+##  License <a name="license-4"></a>
 
       
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-   ##  Contributor <a name="contributor-5"></a>
+##  Contributor <a name="contributor-5"></a>
 
       
 
 If you would like to contribute to this project, please get in touch on [email](mailto:zakaria.khan@zaksweb.co.uk)
 
-   ##  Tests <a name="tests-6"></a>
+##  Tests <a name="tests-6"></a>
 
       
 
 If you would like to test and contribute to this app, please download a copy of the repo and let me know the bug or anythings. Thank you!
 
-   ##  Further Q&A <a name="FurtherQA"></a>
+##  Further Q&A <a name="FurtherQA"></a>
 
       
 
 If you have any further question, please get in touch on: [email](zakaria.khan@zaksweb.co.uk)
 
-   ##  Git Profile Name <a name="GitProfileName"></a>
+##  Git Profile Name <a name="GitProfileName"></a>
 
       
 
