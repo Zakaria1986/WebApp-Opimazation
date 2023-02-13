@@ -37,6 +37,12 @@ This app doesn't require any instaition however you would need one of the latest
 
 You can browse through the website as you like and use any part of the code for your needs. 
 
+
+
+![License: MIT](/assets/images/img.gif)
+
+
+
 ##  License <a name="license-4"></a>
 
       
